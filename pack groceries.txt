@@ -1,0 +1,37 @@
+Pack Groceries/Paying
+
+put in bags
+
+use math to calculate volume
+
+Class Design
+- variables
+- drivers
+- toString();
+
+List of Items
+apples V=?
+oranges v=?
+chocolate v=?
+can of whoopass v=?
+
+COST?
+
+boxes in boxes
+
+Basic Inputs
+IO String (.equalsto())
+10 Int
+10.123 Double
+True Boolean
+
+Try-Catch
+[input] string
+	try > Double [0.1]
+		>int
+			>boolean
+
+Double	y	y	x	x
+Int	y	x	x	x
+Boolean			y	x
+	int	dub	bool	string
